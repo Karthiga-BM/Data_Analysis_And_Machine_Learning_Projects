@@ -23,7 +23,6 @@ if not os.path.exists(my_file): #This method returns a Boolean value of class bo
         os.mkdir(my_file) #Returns error if the directory does not exists.
 
 
-
 # Parameters
 n = 3  # the # of article headlines displayed per ticker
 tickers = ['TXMD', 'TSLA', 'AMZN']
