@@ -1,0 +1,10 @@
+Tue, 09 Mar 2021 19:36:49 root 
+<-----------------------------------------------------------------OUTPUT_LOG_FILE-------------------------------------------------------------------------------------------------->
+Tue, 09 Mar 2021 19:36:49 root 
+------------Creating directory Data_Analysis_Plots_Directory where all generated plots will be saved------------
+
+Tue, 09 Mar 2021 19:36:53 root         Mean Sentiment
+Ticker                
+AMZN              0.14
+TXMD              0.10
+TSLA              0.06

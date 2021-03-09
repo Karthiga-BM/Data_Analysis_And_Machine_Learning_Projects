@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: plotly-utils
+Version: 0.0.3
+Summary: High level API for plotting via Plotly in Jupyter Notebook
+Home-page: https://github.com/gkovacs/plotly-utils
+Author: Geza Kovacs
+Author-email: noreply@gkovacs.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: statsmodels (>=0.10.1)
+Requires-Dist: plotly (>=4.1.1)
+Requires-Dist: numpy (>=1.17.0)
+
+# plotly-utils
+
+High level API for plotting via Plotly in Jupyter Notebook
+
+## Install
+
+```bash
+pip install plotly-utils
+```
+
+## Using
+
+```python
+import plotly_utils
+```
+
+## Author
+
+[Geza Kovacs](https://github.com/gkovacs)
+
+## License
+
+MIT
+
+

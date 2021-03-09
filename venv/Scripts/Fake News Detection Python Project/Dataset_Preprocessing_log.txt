@@ -1,0 +1,346 @@
+Tue, 09 Mar 2021 16:51:44 root 
+<-----------------------------------------------------------------OUTPUT_LOG_FILE-------------------------------------------------------------------------------------------------->
+Tue, 09 Mar 2021 16:51:44 root 
+------------Creating directory Data_Analysis_Plots_Directory where all generated plots will be saved------------
+
+Tue, 09 Mar 2021 16:51:44 root 
+--------------------------------------------DATASET INFORMATION -------------------------------------------------
+Tue, 09 Mar 2021 16:51:44 root 
+-----------------------------------------GETTING THE DIMENSIONALITY OF THE DATAFRAME----------------------------
+Tue, 09 Mar 2021 16:51:44 root (28619, 3)
+Tue, 09 Mar 2021 16:51:44 root 
+----------------------------------------GETTING THE INDEX VALUE IF THE DATAFRAME-------------------------------------
+Tue, 09 Mar 2021 16:51:44 root RangeIndex(start=0, stop=28619, step=1)
+Tue, 09 Mar 2021 16:51:44 root None
+Tue, 09 Mar 2021 16:51:44 root 
+--------------------------DISTRIBUTION OF CLASSES FOR PREDICTION--------------------------------
+Tue, 09 Mar 2021 16:51:44 root 
+----------------------------------------CLASS LABELS & EXAMPLE DISTRIBUTION-----------------------------------------------------
+Tue, 09 Mar 2021 16:51:44 root is_sarcastic
+0    14985
+1    13634
+dtype: int64
+Tue, 09 Mar 2021 16:51:44 root 
+----------------------------------------------CLASS FREQUENCY PLOT------------------------------------------------------------------
+Tue, 09 Mar 2021 16:51:46 root The Class frequency plot has been successfully created and saved in Data_Analysis_Plots_Directory\Class_Frequency_Plot.png
+Tue, 09 Mar 2021 16:51:47 root 
+------------------------------------------CREATING TRAIN & TEST SPLITS------------------------------------
+Tue, 09 Mar 2021 16:51:47 root 
+------------------------------------------Class Frequency Of Train Data-----------------------------------------------------------
+Tue, 09 Mar 2021 16:51:47 root is_sarcastic
+0    11216
+1    10248
+dtype: int64
+Tue, 09 Mar 2021 16:51:47 root 
+---------------------------------Class FRequency Of Test Data-----------------------------------
+Tue, 09 Mar 2021 16:51:47 root is_sarcastic
+0    3769
+1    3386
+dtype: int64
+Tue, 09 Mar 2021 16:51:47 root 
+----------------------------------Plotting class frequency of train data-------------------------------------
+Tue, 09 Mar 2021 16:51:48 root 
+ The Class frequency plot of train data has been successfully created and saved in Data_Analysis_Plots_Directory\Train Data frequency plot.png
+Tue, 09 Mar 2021 16:51:48 root 
+-----------------------------Plotting class frequency of test data----------------------------------------
+Tue, 09 Mar 2021 16:51:49 root 
+ The class frequency plot of test data has been successfully created and saved in Data_Analysis_Plots_Directory\Test Data frequency plot.png
+Tue, 09 Mar 2021 16:51:49 root 
+--------------------------------------------------------Shape of the train and test data------------------------------------------
+Tue, 09 Mar 2021 16:51:49 root (21464, 3)
+Tue, 09 Mar 2021 16:51:49 root (7155, 3)
+Tue, 09 Mar 2021 16:51:49 root 
+-------------------------Checking the dataset quality---------------------
+Tue, 09 Mar 2021 16:51:49 root 
+ Check finished..
+Tue, 09 Mar 2021 16:51:49 root ------------------------------------------------Labels from the Train and Tests Splits------------------------------------------
+Tue, 09 Mar 2021 16:51:49 root [0 1 1 ... 1 0 0]
+Tue, 09 Mar 2021 16:51:49 root [0 1 1 ... 0 1 0]
+Tue, 09 Mar 2021 16:51:49 root --------------------------------------Saving the train and test splits in desired format-------------------------------------
+Tue, 09 Mar 2021 16:51:50 root 
+ The train data is saved as train.json
+Tue, 09 Mar 2021 16:51:50 root 
+ The test data is saved as test.json
+Tue, 09 Mar 2021 16:51:50 root ---------------------------------Shape of Real and Fake news in training data----------------------------------------------------------------------
+Tue, 09 Mar 2021 16:51:50 root (11216, 3)
+Tue, 09 Mar 2021 16:51:50 root (10248, 3)
+Tue, 09 Mar 2021 16:51:50 root 
+--------------------------------------------------------Exploring Article Headline Text-----------------------------------------------------------
+Tue, 09 Mar 2021 16:51:50 root 
+-------------------------------------------------Average Number and Standard Deviation----------------------------------------
+Tue, 09 Mar 2021 16:51:50 root 
+The average number of words in a real news Headline is :
+Tue, 09 Mar 2021 16:51:50 root 9.796184022824537
+Tue, 09 Mar 2021 16:51:50 root 
+The average number of words in a fake news Headline is :
+Tue, 09 Mar 2021 16:51:50 root 10.282786885245901
+Tue, 09 Mar 2021 16:51:50 root 
+The standard deviation in real news article lengths is:
+Tue, 09 Mar 2021 16:51:50 root 2.8815844435984634
+Tue, 09 Mar 2021 16:51:50 root 
+The standard deviation in fake news article lengths is :
+Tue, 09 Mar 2021 16:51:50 root 3.6467209370763265
+Tue, 09 Mar 2021 16:52:36 root 
+-------------------------------------------Sentiment Analysis of Article Headline Text-----------------------------------------------------------
+Tue, 09 Mar 2021 16:52:36 root 
+The headline sentiment analysis result for real_news :
+Tue, 09 Mar 2021 16:52:36 root 0.05188300880208646
+Tue, 09 Mar 2021 16:52:36 root 
+The headline sentiment analysis result for real_news : :
+Tue, 09 Mar 2021 16:52:36 root 0.032856753847227596
+Tue, 09 Mar 2021 16:52:36 root 
+Plotting headline_sentiment_plot and saved at Data_Analysis_Plots_Directory\headline_sentiment_analysis_plot:
+Tue, 09 Mar 2021 16:52:43 root       Bigram_Real_News  Frequency
+0      (donald, trump)        247
+1            (in, the)        234
+2            (of, the)        213
+3            (how, to)        140
+4            (to, the)        123
+5             (to, be)        119
+6            (on, the)        119
+7              (is, a)        112
+8           (and, the)        105
+9           (for, the)        105
+10           (is, the)         89
+11           (at, the)         88
+12          (need, to)         84
+13             (in, a)         84
+14  (hillary, clinton)         80
+15    (donald, trumps)         77
+16            (for, a)         77
+17         (from, the)         70
+18        (the, world)         67
+19         (the, best)         67
+Tue, 09 Mar 2021 16:52:46 root      Bigram_Fake_News  Frequency
+0         (area, man)        185
+1           (out, of)        149
+2            (to, be)        148
+3           (to, get)        100
+4      (white, house)        100
+5         (going, to)         90
+6      (study, finds)         83
+7        (trying, to)         65
+8        (forced, to)         64
+9           (of, the)         64
+10         (to, make)         57
+11  (introduces, new)         52
+12          (to, see)         51
+13    (of, americans)         49
+14         (to, take)         47
+15         (man, who)         46
+16           (up, to)         44
+17     (unveils, new)         43
+18     (majority, of)         42
+19          (no, one)         41
+Tue, 09 Mar 2021 16:52:48 root             Trigram_Real_News  Frequency
+0             (you, need, to)         53
+1            (need, to, know)         41
+2                 (to, be, a)         20
+3           (what, you, need)         19
+4               (in, the, us)         19
+5              (to, know, on)         18
+6            (this, is, what)         18
+7      (huffpost, rise, what)         17
+8           (rise, what, you)         17
+9            (the, power, of)         17
+10         (opens, up, about)         16
+11          (what, its, like)         16
+12   (funniest, tweets, from)         16
+13          (will, make, you)         15
+14            (its, like, to)         15
+15          (to, know, about)         15
+16            (this, is, the)         15
+17            (its, time, to)         14
+18  (fridays, morning, email)         14
+19        (game, of, thrones)         14
+Tue, 09 Mar 2021 16:52:49 root             Trigram_Fake_News  Frequency
+0         (new, study, finds)         23
+1             (in, front, of)         21
+2             (new, line, of)         17
+3      (announces, plans, to)         17
+4   (majority, of, americans)         17
+5            (state, of, the)         14
+6            (of, the, union)         14
+7            (in, middle, of)         14
+8          (for, first, time)         14
+9      (report, majority, of)         14
+10            (has, no, idea)         14
+11        (game, of, thrones)         12
+12          (just, going, to)         12
+13           (cant, wait, to)         12
+14      (announces, plan, to)         11
+15              (no, way, to)         10
+16         (way, to, prevent)         10
+17        (to, prevent, this)         10
+18      (prevent, this, says)         10
+19         (this, says, only)         10
+Tue, 09 Mar 2021 16:52:52 root    Unigram_Real_News  Frequency
+0                the       3522
+1                 to       3075
+2                  a       1862
+3                 of       1861
+4                 in       1803
+5                for       1412
+6                and       1227
+7                 is       1112
+8                 on        999
+9              trump        769
+10              with        691
+11               you        589
+12              this        540
+13              from        513
+14                at        488
+15               new        487
+16             about        485
+17               how        461
+18               are        418
+19              your        412
+Tue, 09 Mar 2021 16:52:56 root    Unigram_Fake_News  Frequency
+0                 to       3741
+1                 of       2838
+2                 in       1571
+3                for       1325
+4                 on        969
+5                man        878
+6               with        757
+7                new        753
+8                the        575
+9                 by        537
+10                at        501
+11              from        494
+12                 a        480
+13               out        428
+14             after        422
+15                he        387
+16                up        386
+17            report        385
+18              area        385
+19             about        359
+Tue, 09 Mar 2021 16:52:59 root -------------------------Of the top 20 words in each class, Number of words  that are common------------------------------------------
+Tue, 09 Mar 2021 16:52:59 root 12
+Tue, 09 Mar 2021 16:53:03 root    Bigram_Real_News_with_no_stopwords  Frequency
+0                     (donald, trump)        247
+1                  (hillary, clinton)         80
+2                    (donald, trumps)         77
+3                         (new, york)         65
+4                      (white, house)         54
+5                    (morning, email)         47
+6                   (bernie, sanders)         46
+7                    (supreme, court)         46
+8                      (health, care)         46
+9                   (climate, change)         45
+10                       (need, know)         42
+11                 (stephen, colbert)         29
+12                     (north, korea)         28
+13            (trump, administration)         25
+14                     (high, school)         25
+15                        (ted, cruz)         24
+16                      (trump, says)         23
+17                        (fox, news)         23
+18                  (sexual, assault)         23
+19                     (trevor, noah)         22
+Tue, 09 Mar 2021 16:53:19 root    Bigram_Fake_News_no_stopwords  Frequency
+0                    (area, man)        185
+1                 (white, house)        100
+2                 (study, finds)         83
+3              (introduces, new)         52
+4                 (unveils, new)         44
+5               (supreme, court)         31
+6                  (area, woman)         31
+7                   (new, study)         30
+8                (pope, francis)         30
+9                (releases, new)         29
+10                (high, school)         29
+11                  (area, mans)         27
+12               (cant, believe)         26
+13                   (new, york)         26
+14            (hillary, clinton)         25
+15               (report, finds)         22
+16                  (local, man)         21
+17        (historical, archives)         21
+18                 (poll, finds)         20
+19                    (one, day)         19
+Tue, 09 Mar 2021 16:53:24 root    Trigram_Real_News_no_stopwords  Frequency
+0          (huffpost, rise, need)         17
+1              (rise, need, know)         17
+2       (fridays, morning, email)         14
+3        (everything, need, know)         12
+4       (funniest, tweets, women)         12
+5           (tweets, women, week)         12
+6    (wednesdays, morning, email)         10
+7       (american, horror, story)         10
+8          (black, lives, matter)         10
+9           (donald, trump, says)         10
+10          (women, business, qa)          9
+11      (friday, talking, points)          8
+12                (kim, jong, un)          8
+13    (thursdays, morning, email)          8
+14             (new, york, times)          8
+15         (20, funniest, tweets)          8
+16           (health, care, bill)          7
+17         (martin, luther, king)          7
+18              (new, york, city)          7
+19      (mondays, morning, email)          7
+Tue, 09 Mar 2021 16:53:25 root    Trigram_Fake_News_no_stopwords  Frequency
+0             (new, study, finds)         23
+1            (way, prevent, says)         10
+2         (prevent, says, nation)         10
+3       (says, nation, regularly)         10
+4    (nation, regularly, happens)         10
+5              (new, york, times)          9
+6            (new, report, finds)          8
+7       (new, evidence, suggests)          7
+8         (introduces, new, line)          6
+9     (report, average, american)          6
+10           (unveils, new, line)          6
+11  (report, majority, americans)          5
+12     (sarah, huckabee, sanders)          5
+13        (world, wildlife, fund)          5
+14       (secret, service, agent)          5
+15      (study, finds, americans)          5
+16             (new, poll, finds)          5
+17           (onion, social, ceo)          5
+18           (fda, approves, new)          4
+19               (world, war, ii)          4
+Tue, 09 Mar 2021 16:53:28 root    Unigram_Real_News_no_stopwords  Frequency
+0                           trump        769
+1                             new        487
+2                          donald        329
+3                          trumps        286
+4                            says        269
+5                              us        263
+6                             one        193
+7                           women        186
+8                             day        169
+9                           first        167
+10                            man        162
+11                           make        158
+12                            gop        156
+13                         people        155
+14                           like        146
+15                          black        146
+16                          obama        145
+17                            get        144
+18                          watch        143
+19                          world        142
+Tue, 09 Mar 2021 16:53:31 root    Unigram_Fake_News_no_stopwords  Frequency
+0                             man        878
+1                             new        753
+2                          report        385
+3                            area        385
+4                           woman        271
+5                           trump        241
+6                             one        227
+7                            time        206
+8                             day        197
+9                              us        188
+10                          still        184
+11                           like        183
+12                         nation        181
+13                            get        172
+14                          house        169
+15                          study        167
+16                           back        164
+17                          first        154
+18                         family        151
+19                          finds        150
