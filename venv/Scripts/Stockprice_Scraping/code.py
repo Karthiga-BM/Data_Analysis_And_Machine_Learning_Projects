@@ -22,8 +22,7 @@ logging.info("\n------------Creating directory Data_Analysis_Plots_Directory whe
 if not os.path.exists(my_file): #This method returns a Boolean value of class bool. This method returns True if path exists otherwise returns False.
         os.mkdir(my_file) #Returns error if the directory does not exists.
 
-#
-#
+
 
 # Parameters
 n = 3  # the # of article headlines displayed per ticker
