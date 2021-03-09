@@ -24,7 +24,6 @@ if not os.path.exists(my_file): #This method returns a Boolean value of class bo
 
 #
 #
-#Test Line
 
 # Parameters
 n = 3  # the # of article headlines displayed per ticker
