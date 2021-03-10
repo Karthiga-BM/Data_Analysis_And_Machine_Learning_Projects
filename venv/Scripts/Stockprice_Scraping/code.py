@@ -8,8 +8,13 @@ import os, time, shutil, glob, smtplib,ssl
 import matplotlib.pyplot as plt
 from urllib.request import urlopen, Request
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from email.MIMEMultipart import MIMEMultipart
+from email.MIMEText import MIMEText
+from email.MIMEImage import MIMEImage
+import smtplib
 
-#logging details
+
+#---------------------------------logging details-------------------------------------------------
 def init_logging(config):
     format = '%(asctime)s %(process)d %(module)s %(levelname)s %(message)s'
 logging.basicConfig(handlers=[logging.FileHandler('Stock_Analysis_Directory/Stock_News_Scraping_log.txt','w', 'utf-8')], level=logging.INFO,
@@ -19,7 +24,7 @@ logging.getLogger('requests').setLevel(logging.CRITICAL)
 my_file = os.path.join("Stock_Analysis_Directory")
 logging.info("\n<-----------------------------------------------------------------OUTPUT_LOG_FILE-------------------------------------------------------------------------------------------------->")
 logging.info("\n------------Creating directory Data_Analysis_Plots_Directory where all generated plots will be saved------------\n")
-if not os.path.exists(my_file): #This method returns a Boolean value of class bool. This method returns True if path exists otherwise returns False.
+if not os.path.exists(my_file): # This method returns True if path exists otherwise returns False.
         os.mkdir(my_file) #Returns error if the directory does not exists.
 logging.info("Stock news analysis log file created successfullty")
 
@@ -116,26 +121,21 @@ logging.info("\n")
 print(df)
 logging.info(df)
 
-#Emailing the result
-Analysis = pd.read_csv("<Your Path>\\Daily_Stock_Report\\OBV_Ranked.csv")  # Read in the ranked stocks
-top10 = Analysis.head(10)  # I want to see the 10 stocks in my analysis with the highest OBV values
-bottom10 = Analysis.tail(10)  # I also want to see the 10 stocks in my analysis with the lowest OBV values
-# This is where we write the body of our email. Add the top 10 and bottom 10 dataframes to include the results of your analysis
-Body_of_Email = """\
-Subject: Daily Stock Report
+#______________Emailing the result___________________________________________________
 
-Your highest ranked OBV stocks of the day:
+# prepare the message and attachment
+msg = MIMEMultipart()
+msg.attach(MIMEText(file("Stock_News_Scraping_log.txt").read()))
 
-""" + top10.to_string(index=False) + """\
-
-
-Your lowest ranked OBV stocks of the day:
-
-""" + bottom10.to_string(index=False) + """\
-
-
-Sincerely,
-Your Computer"""
+Body_of_Email = ("\\n"
+                 "Subject: Daily Stock News Report is here \n"
+                 "\n"
+                 "\n"
+                 "\\n"
+                 "\n"
+                 "\n"
+                 "Sincerely,\n"
+                 "Your Computer")
 context = ssl.create_default_context()
 Email_Port = 465  # If you are not using a gmail account, you will need to look up the port for your specific email host
 with smtplib.SMTP_SSL("smtp.gmail.com", Email_Port, context=context) as server:
