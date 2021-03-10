@@ -116,28 +116,28 @@ logging.info("\n")
 print(df)
 logging.info(df)
 
-# #Emailing the result
-# Analysis = pd.read_csv("<Your Path>\\Daily_Stock_Report\\OBV_Ranked.csv")  # Read in the ranked stocks
-# top10 = Analysis.head(10)  # I want to see the 10 stocks in my analysis with the highest OBV values
-# bottom10 = Analysis.tail(10)  # I also want to see the 10 stocks in my analysis with the lowest OBV values
-# # This is where we write the body of our email. Add the top 10 and bottom 10 dataframes to include the results of your analysis
-# Body_of_Email = """\
-# Subject: Daily Stock Report
-#
-# Your highest ranked OBV stocks of the day:
-#
-# """ + top10.to_string(index=False) + """\
-#
-#
-# Your lowest ranked OBV stocks of the day:
-#
-# """ + bottom10.to_string(index=False) + """\
-#
-#
-# Sincerely,
-# Your Computer"""
-# context = ssl.create_default_context()
-# Email_Port = 465  # If you are not using a gmail account, you will need to look up the port for your specific email host
-# with smtplib.SMTP_SSL("smtp.gmail.com", Email_Port, context=context) as server:
-#     server.login("<Your email>", "<Your email password>")  #  This statement is of the form: server.login(<Your email>, "Your email password")
-#     server.sendmail("<Your email>", "<Email receiving message>", Body_of_Email)  # This statement is of the form: server.sendmail(<Your email>, <Email receiving message>, Body_of_Email)
+#Emailing the result
+Analysis = pd.read_csv("<Your Path>\\Daily_Stock_Report\\OBV_Ranked.csv")  # Read in the ranked stocks
+top10 = Analysis.head(10)  # I want to see the 10 stocks in my analysis with the highest OBV values
+bottom10 = Analysis.tail(10)  # I also want to see the 10 stocks in my analysis with the lowest OBV values
+# This is where we write the body of our email. Add the top 10 and bottom 10 dataframes to include the results of your analysis
+Body_of_Email = """\
+Subject: Daily Stock Report
+
+Your highest ranked OBV stocks of the day:
+
+""" + top10.to_string(index=False) + """\
+
+
+Your lowest ranked OBV stocks of the day:
+
+""" + bottom10.to_string(index=False) + """\
+
+
+Sincerely,
+Your Computer"""
+context = ssl.create_default_context()
+Email_Port = 465  # If you are not using a gmail account, you will need to look up the port for your specific email host
+with smtplib.SMTP_SSL("smtp.gmail.com", Email_Port, context=context) as server:
+    server.login("<Your email>", "<Your email password>")  #  This statement is of the form: server.login(<Your email>, "Your email password")
+    server.sendmail("<Your email>", "<Email receiving message>", Body_of_Email)  # This statement is of the form: server.sendmail(<Your email>, <Email receiving message>, Body_of_Email)
