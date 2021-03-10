@@ -139,5 +139,5 @@ Your Computer"""
 context = ssl.create_default_context()
 Email_Port = 465  # If you are not using a gmail account, you will need to look up the port for your specific email host
 with smtplib.SMTP_SSL("smtp.gmail.com", Email_Port, context=context) as server:
-    server.login("<Your email>", "<Your email password>")  #  This statement is of the form: server.login(<Your email>, "Your email password")
-    server.sendmail("<Your email>", "<Email receiving message>", Body_of_Email)  # This statement is of the form: server.sendmail(<Your email>, <Email receiving message>, Body_of_Email)
+    server.login("<karthiga.easwar16@gmail.com>", "<u5yxwe9fs3ajsc>")  #  This statement is of the form: server.login(<Your email>, "Your email password")
+    server.sendmail("<karthiga.easwar16@gmail.com>", "<u5yxwe9fs3ajsc>", Body_of_Email)  # This statement is of the form: server.sendmail(<Your email>, <Email receiving message>, Body_of_Email)
