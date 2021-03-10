@@ -46,13 +46,16 @@ try:
         df_tr = df.findAll('tr')
 
         print('\n')
+        logging.info("\n")
         print('Recent News Headlines for {}: '.format(ticker))
+        logging.info("Recent News Headlines for {}: ".format(ticker))
 
         for i, table_row in enumerate(df_tr):
             a_text = table_row.a.text
             td_text = table_row.td.text
             td_text = td_text.strip()
             print(a_text, '(', td_text, ')')
+            logging.info(a_text, '(', td_text, ')')
             if i == n - 1:
                 break
 except KeyError:
@@ -98,7 +101,9 @@ for ticker in tickers:
     dataframe = dataframe.set_index('Ticker')
     dataframe = dataframe.drop(columns=['Headline'])
     print('\n')
+    logging.info("\n")
     print(dataframe.head())
+    logging.info(dataframe.head())
 
     mean = round(dataframe['compound'].mean(), 2)
     values.append(mean)
@@ -107,6 +112,7 @@ df = pd.DataFrame(list(zip(tickers, values)), columns=['Ticker', 'Mean Sentiment
 df = df.set_index('Ticker')
 df = df.sort_values('Mean Sentiment', ascending=False)
 print('\n')
+logging.info("\n")
 print(df)
 logging.info(df)
 
