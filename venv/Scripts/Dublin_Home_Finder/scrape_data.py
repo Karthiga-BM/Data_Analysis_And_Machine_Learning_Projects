@@ -14,3 +14,11 @@ r = requests.get("https://www.daft.ie/property-for-sale/dublin", headers = {'Use
 content = r.content
 
 print(content)
+
+#make the content more readable using beautifulsoup
+content = BeautifulSoup(content, "html.parser")
+content.prettify()
+
+#number of webpages available showing the result
+total_pages =content.find_all("a", {"Class": "Page"})[-1].text
+print(total_pages)
