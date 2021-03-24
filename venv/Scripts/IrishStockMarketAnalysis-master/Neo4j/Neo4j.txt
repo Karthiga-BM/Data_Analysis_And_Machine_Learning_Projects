@@ -1,0 +1,87 @@
+Implementing Relational Database into Graphical Database.
+Neo4j is graphical representation of database where data presents in form of nodes and relationship between them.
+Cypher is most commonly used graphical query language.
+
+6.1) Steps to Convert Relational database into Graphical database.
+
+a) Create NODES for each relational database tables.
+
+LOAD CSV WITH HEADERS FROM "file:///IrishTimesAllStockNews.csv" as row CREATE (c:IrishTimesAllStockNews) SET c=row{News_ID:row.News_ID,CompanyName_News:row.CompanyName_News,Date_News:row.Date_News,Headline_News:row.Headline_News,Description_News:row.Description_News} return c
+
+#IrishTimesAllStockNews Node Created.
+
+LOAD CSV WITH HEADERS FROM "file:///StockHistorical.csv" as row CREATE (c:StockHistorical) SET c=row{Historical_ID:row.Historical_ID,CompanyName:row.CompanyName,Date_Stock:row.Date_Stock,Open_Stock:row.Open_Stock,High_Stock:row.High_Stock,Low_Stock:row.Low_Stock,Close_Stock:row.Close_Stock,AdjClose_Stock:row.AdjClose_Stock,Volume_Stock:row.Volume_Stock} return c
+
+#StockHistorical Node Created.
+
+LOAD CSV WITH HEADERS FROM "file:///PestelData.csv" as row CREATE (c:PestelData) SET c=row{P_ID:row.P_ID,Name_Pestal:row.Name_Pestal,Date_Pestel:row.Date_Pestel,Headline_Pestel:row.Headline_Pestel,Description_Pestel:row.Description_Pestel} return c
+
+#PestelData Node Created.
+
+LOAD CSV WITH HEADERS FROM "file:///StockDetails.csv" as row CREATE (c:StockDetails) SET c=row{CompanyName:row.CompanyName,InstrumentName:row.InstrumentName,MarketCap:row.MarketCap,ISEQWeightingPercent:row.ISEQWeightingPercent,DescriptionStockDetails:row.DescriptionStockDetails,Website:row.Website,DepartmentDetails:row.DepartmentDetails} return c
+
+#StockDetails Node Created.
+
+LOAD CSV WITH HEADERS FROM "file:///ISEQOverallHistorical.csv" as row CREATE (c:ISEQOverallHistorical) SET c=row{ISEQ_ID:row.ISEQ_ID,Date_ISEQ:row.Date_ISEQ,Price_ISEQ:row.Price_ISEQ,Open_ISEQ:row.Open_ISEQ,High_ISEQ:row.High_ISEQ,Low_ISEQ:row.Low_ISEQ,Vol_Mil_ISEQ:row.Vol_Mil_ISEQ,ChangePercent_ISEQ:row.ChangePercent_ISEQ} return c
+
+#ISEQOverallHistorical Node Created.
+
+LOAD CSV WITH HEADERS FROM "file:///FullDateTable.csv" as row CREATE (c:FullDateTable) SET c=row{FullDate:row.FullDate,Date:row.Date,Month:row.Month,Year:row.Year,Day:row.Day,Quater:row.Quater} return c
+
+#FullDateTable Node Created.
+
+b) Create INDEX For each NODE.
+
+$CREATE INDEX ON :IrishTimesAllStockNews(News_ID)
+#Index created for IrishTimesAllStockNews Node.
+$CREATE INDEX ON :StockHistorical(Historical_ID)
+#Index created for StockHistorical Node.
+$CREATE INDEX ON :PestelData(P_ID)
+#Index created for PestelData Node.
+$CREATE INDEX ON :StockDetails(CompanyName)
+#Index created for StockDetails Node.
+$CREATE INDEX ON :ISEQOverallHistorical(ISEQ_ID)
+#Index created for ISEQOverallHistorical Node.
+$CREATE INDEX ON :FullDateTable(FullDate)
+#Index created for FullDateTable Node.
+
+c) Create RELATIONSHIP between NODE.
+
+#Relationship with date between Pestal and ISEQOverAll
+
+MATCH (a:PestelData),(b:ISEQOverallHistorical)
+WHERE a.Date_Pestel = b.Date_ISEQ
+CREATE (a)-[r:Pestal]->(b)
+RETURN r limit 500
+
+#Relationship with Date between StockHistorical and IrishTimesAllStockNews
+
+MATCH (a:StockHistorical),(b:IrishTimesAllStockNews)
+WHERE a.Date_Stock = b.Date_News
+CREATE (a)-[r:Pestal]->(b)
+RETURN r limit 500
+
+#Relationship with Date between StockHistorical and Pestal
+
+MATCH (a:StockHistorical),(b:PestelData)
+WHERE a.Date_Stock = b.Date_Pestel
+CREATE (a)-[r:Pestal]->(b)
+RETURN r limit 500
+
+
+#Relationship of CompanyName between IrishTimesAllStockNews and Stock Details
+MATCH (a:IrishTimesAllStockNews),(b:StockDetails)
+WHERE a.Date_News = b.CompanyName
+CREATE (a)-[r:Pestal]->(b)
+RETURN r limit 500
+
+
+6.3) Use of Graph database vs Relational database
+a) Graph database is suitable for when data are highly connected.
+b) Social Networking sites are best example for graphical database where time will be less to construct data and views found in social networking sites.
+c) Also, best suitable for fraud detection system, access management system and risk management system.
+Relational Database Graphical Database Data presents in form of Static tables. Data presents in form of Nodes and relationships between them.
+Relational database has schema.
+Graphical database is schema less. Adding new constraint to the existing table is difficult. Additional properties and relationship can be done easily.
+Performance will be degraded for fetching more complex data.
+Performance of relationship traversal remains constant with grow in data size.
