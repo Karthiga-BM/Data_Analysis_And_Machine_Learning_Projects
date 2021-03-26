@@ -541,4 +541,7 @@ df = pd.DataFrame(properties,
                   columns=["_price", "type", "_bedrooms", "_bathrooms", "lat", "lng", "_time_to_work_seconds_transit",
                            "_time_to_work_seconds_walking", "cluster", "_d_code"])
 df.to_csv("generated.csv")
+print("Data generated successfully!")
+print("The generated data is stored successfully!")
+
 
