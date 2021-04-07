@@ -1,0 +1,5 @@
+Fri, 26 Mar 2021 14:34:06 root 
+<-----------------------------------------------------------------OUTPUT_LOG_FILE-------------------------------------------------------------------------------------------------->
+Fri, 26 Mar 2021 14:34:06 root 
+------------Creating directory Data_Analysis_Plots_Directory where all generated plots will be saved------------
+

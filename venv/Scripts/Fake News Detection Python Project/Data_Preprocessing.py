@@ -117,7 +117,7 @@ if not os.path.exists(my_file): #This method returns a Boolean value of class bo
 #Loading the json file into the pandas dataframe
 def load_data(input_json_file, class_column_label):
 
-    df = pd.read_json(input_json_file, lines=True)  # load data into a pandas Data Frame
+    df = pd.read_json(input_json_file, lines=True, encoding="utf8")  # load data into a pandas Data Frame
 
     logging.info("\n--------------------------------------------DATASET INFORMATION -------------------------------------------------")
 
