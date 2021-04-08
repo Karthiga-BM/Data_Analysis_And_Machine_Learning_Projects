@@ -32,11 +32,10 @@ geo_columns = ["_link", "lat", "lng", "_time_to_work_seconds_transit", "_time_to
 # Create an array where we'll store the geocoded data
 geo_data = []
 # For each element of the raw dataframe, start the geocoding
-for index,
-    in tqdm(data.iterrows()):
+for index, in tqdm(data.iterrows()):
 # Google Geo coding
-_location = ""
-_location_json = ""
+    _location = ""
+    _location_json = ""
 try:
     # Try to retrieve the base location,
     # i.e. the Latitude and Longitude given the address

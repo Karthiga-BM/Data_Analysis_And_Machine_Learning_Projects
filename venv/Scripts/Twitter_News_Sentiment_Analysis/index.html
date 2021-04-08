@@ -1,0 +1,27 @@
+<tbody>
+<!your rows inside the table>
+<tr>
+    <td>
+        {{  item.tweets}}
+    </td>
+    <td>
+        <a href="{{  ''.join(['http://', item.links])}}"> Link </a>
+    </td>
+    <td>
+        {{item.name}}
+    </td>
+    <td>
+        {{item.sentiment}}
+    </td>
+    <td>
+        {{item.date}}
+    </td>
+    <td>
+        {{  item.likes}}
+    </td>
+    <td>
+        {{item.retweets}}
+    </td>
+</tr>
+    {% endfor %}
+</tbody>

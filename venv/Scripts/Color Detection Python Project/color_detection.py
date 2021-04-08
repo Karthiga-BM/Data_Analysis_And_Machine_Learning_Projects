@@ -1,8 +1,8 @@
-import cv2
 import numpy as np
 import pandas as pd
 import argparse
-
+import cv2
+ 
 #Creating argument parser to take image path from command line
 ap = argparse.ArgumentParser()
 ap.add_argument('-i', '--image', required=True, help="Image Path")
