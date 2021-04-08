@@ -2,10 +2,8 @@ import pandas as pd
 import numpy as np 
 import seaborn as sns
 import tweepy as api
-import textblob
+import tweepy as api
 import flask as api
-
-
 names = ["washingtonpost", "ABC", "SkyNews", "CNN", "BBCWorld", "nytimes", "NBCNews", "VICENews"]
 
 i = 0
