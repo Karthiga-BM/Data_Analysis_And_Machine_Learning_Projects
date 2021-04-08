@@ -44,10 +44,11 @@ class TweetAnalyzer():
         else:
             0   
 
- # Displaying the information
+ # Displaying the information in website
  app = Flask(_name_)
  @app.route("/")
  def display():
      twitter_table = df2.to_dict('records')
      return render_template('index.html', table = twitter_table)
+
 
