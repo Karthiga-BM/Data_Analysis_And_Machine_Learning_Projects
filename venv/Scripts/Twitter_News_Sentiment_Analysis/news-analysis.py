@@ -44,7 +44,7 @@ class TweetAnalyzer():
         else:
             0   
 
- # Displaying the information
+ # Displaying the information on the website
  app = Flask(_name_)
  @app.route("/")
  def display():
