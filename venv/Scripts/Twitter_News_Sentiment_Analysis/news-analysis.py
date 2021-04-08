@@ -2,6 +2,9 @@ import pandas as pd
 import numpy as np 
 import seaborn as sns
 import tweepy as api
+import textblob
+import flask as api
+
 
 names = ["washingtonpost", "ABC", "SkyNews", "CNN", "BBCWorld", "nytimes", "NBCNews", "VICENews"]
 
@@ -42,4 +45,5 @@ class TweetAnalyzer():
             return analysis.sentiment.polarity * 100
         else:
             0   
+            
     
