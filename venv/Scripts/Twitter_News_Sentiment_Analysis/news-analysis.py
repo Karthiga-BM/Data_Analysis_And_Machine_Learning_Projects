@@ -2,7 +2,8 @@ import pandas as pd
 import numpy as np 
 import seaborn as sns
 import tweepy as api
-
+import tweepy as api
+import flask as api
 names = ["washingtonpost", "ABC", "SkyNews", "CNN", "BBCWorld", "nytimes", "NBCNews", "VICENews"]
 
 i = 0
@@ -42,4 +43,11 @@ class TweetAnalyzer():
             return analysis.sentiment.polarity * 100
         else:
             0   
-    
+
+ # Displaying the information
+ app = Flask(_name_)
+ @app.route("/")
+ def display():
+     twitter_table = df2.to_dict('records')
+     return render_template('index.html', table = twitter_table)
+
