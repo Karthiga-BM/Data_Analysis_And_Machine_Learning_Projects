@@ -1,0 +1,6 @@
+Fri, 09 Apr 2021 19:28:44 root Stay informed every day with Yahoo Finance's free Fully Briefed newsletter.
+Fri, 09 Apr 2021 19:28:58 tensorflow Enabling eager execution
+Fri, 09 Apr 2021 19:28:58 tensorflow Enabling v2 tensorshape
+Fri, 09 Apr 2021 19:28:58 tensorflow Enabling resource variables
+Fri, 09 Apr 2021 19:28:58 tensorflow Enabling tensor equality
+Fri, 09 Apr 2021 19:28:58 tensorflow Enabling control flow v2
