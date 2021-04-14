@@ -4,6 +4,7 @@ import requests
 import re
 from transformers import pipeline
 import csv
+import pandas as pd
 
 # 2. Setup Model
 model_name = "human-centered-summarization/financial-summarization-pegasus"
@@ -92,3 +93,8 @@ final_output.insert(0, ['Ticker','Summary', 'Sentiment', 'Sentiment Score', 'URL
 with open('summaries.csv', mode='w', newline='') as f:
     csv_writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     csv_writer.writerows(final_output)
+
+
+df = pd.read_csv(summaries.csv)
+
+df.to_html('stocknewsweb.htm')
