@@ -1,0 +1,22 @@
+Link for Flickr8k Dataset
+https://drive.google.com/file/d/1aP_JAzMLZzixKlLE4yTde52OGrm7-Ck7/view?usp=sharing
+
+Link for NSFW training Dataset
+https://drive.google.com/file/d/1agyO2xTjPwsBcgVPQXF4dp6SPrTUPw2t/view?usp=sharing
+
+Link for NSFW validation Dataset
+https://drive.google.com/file/d/1iojk_4xYmvzwZS3lPuY3DEIRyyKqF7qk/view?usp=sharing
+
+Link for NSFW testing Dataset
+https://drive.google.com/file/d/1WIrujc1ISD7X21NNcbssWj9_4FD2NWc-/view?usp=sharing
+
+Link for Test Dataset for Combined Model Testing
+https://drive.google.com/file/d/1eiU9Q_Q7qtQbc_UZgd5vhXmTo9tX-FMw/view?usp=sharing
+
+•	The file ‘[Final] Image Captioning + Generator’ contains the Image captioning model discussed in the project. This program requires Keras version 2.3.1 and Tensorflow version 2.2 for efficient running.
+•	The file ‘[Final] NSFW Filter using VGG16’ contains the NSFW Filter model discussed in the project.
+•	The file ‘[Final] Combined Model’ contains the combined Image Caption Generator with NSFW Filter discussed in the project.
+
+Both .ipynb and .py files are provided for the same. Please note that all the programs are running without any errors.
+For best results run the project on Google Colab with the necessary libraries mentioned in each program in the comments. 
+

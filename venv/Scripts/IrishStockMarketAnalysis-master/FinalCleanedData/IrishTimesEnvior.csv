@@ -1,0 +1,945 @@
+Envior_ID,Name_Envior,Date_Envior,Headline_Envior,Description_Envior
+1,weather,2018-09-17,Chicken producer Moy Park delivers record sales and profits," North’s largest firm set to deliver $50 million in savings after acquisition by Pilgrim’s Pride
+            "
+2,weather,2018-09-17,"Britain’s economy will shrink without Brexit deal, IMF warns"," Christine Lagarde says ‘clouds on the horizon have not become lighter but darker’
+            "
+3,weather,2018-08-13,Sunny July gives consumer sentiment a temporary lift," Weather may have helped sentiment rise last month, but major economic worries remain
+            "
+4,weather,2018-08-10,"The ‘Weinstein clause’, Disney hits and pizza profits"," Planet Business: Superheroes and super-villains abound
+            "
+5,weather,2018-08-09,House and apartment sales up 25% on last year – Davy," Some 28,022 transactions worth €8.3bn registered so far in 2018
+            "
+6,weather,2018-07-18,Sharp slowdown in Dublin house price rises is predicted," Savills says it expects a ‘cooling-off’ period as the supply of new homes ramps up
+            "
+7,weather,2018-06-15,Ireland pitches up for its share of the World Cup pie," Tournament of tournaments remains a commercial bonanza despite toxic Fifa brand
+            "
+8,weather,2018-06-14,Analysts fear UK retail sales rise may be ‘blip’," Spending up by 1.3% in May
+            "
+9,weather,2018-05-15,German growth starts 2018 at weakest pace in a year," Slowdown in euro area weighs on economy but ECB says it may be temporary
+            "
+10,weather,2018-05-09,Residential property prices rise by 12.7% in year to March," Official figures show property values are increasing by 12.1% in Dublin
+            "
+11,weather,2018-05-08,NI house prices grow by 6.6% year on year in first quarter," Latest quarterly index, however, suggests sales volumes were hit by poor weather
+            "
+12,weather,2018-05-04,US job growth rebounds modestly; unemployment rate falls," Unemployment rate drops to 3.9% from 4.1% as average hourly earnings rise
+            "
+13,weather,2018-04-30,"GDP to grow and consumer spending to accelerate, Davy forecasts"," Positive forecast sees mortgage lending rising and economy nearing full employment
+            "
+14,weather,2018-04-29,Government should focus on growing Dublin and war-gaming next recession," EU economic growth has suddenly halted and Ireland needs to prepare for recession
+            "
+15,weather,2018-04-06,US job gains smallest in six months as wage growth picks up," Nonfarm payrolls increased by 103,000 in March as construction and retail sectors shed jobs
+            "
+16,weather,2018-04-04,Weaker income tax receipts push Government finances off target," Department insists underlying trend remains positive, while VAT take also swells
+            "
+17,weather,2017-12-15,‘Christmas Means Christmas’ and Deutsche Bank’s market triggers," Planet Business: Tourism Ireland takes latest Skellig Michael campaign to new heights
+            "
+18,weather,2017-11-26,Just Eat food ordering app set for promotion to FTSE 100," Owners of Alton Towers and Legoland face demotion to FTSE 250
+            "
+19,weather,2017-10-27,"Brexit ‘McCarthyism’, coffee’s ‘third wave’ and a wine drought?"," Planet Business: Companies beating analysts’ expectations, cities that love Amazon
+            "
+20,weather,2017-10-06,US employment falls for the first time in seven years," Hurricanes Harvey and Irma caused temporary unemployment and delayed hiring
+            "
+21,weather,2017-08-07,UK consumer spending sees longest decline since 2013: Visa," Another sign that the impact of last year’s Brexit vote is rippling through to households
+            "
+22,weather,2017-05-05,US unemployment at 10-year low as growth bounces back," Data set to keep Federal Reserve on track to raise interest rates in coming months   
+            "
+23,weather,2017-05-05,US employment growth rebounding and wages increasing," Conditions could pave way for the Federal Reserve to raise interest rates next month   
+            "
+24,weather,2017-04-07,US jobs growth slows more than expected," Employers added 98,000 jobs last month, far below 180,000 economists had forecast   
+            "
+25,weather,2017-03-10,Strong US jobs figures pave way for Fed rate rise," Unemployment rate fell to 4.7%, and wages grew 2.8% from February   
+            "
+26,weather,2017-03-01,Ciarán Hancock: Less is more when it comes to motor insurance," High time Government tackled big ticket items that could affect underlying issue   
+            "
+27,weather,2017-02-10,"Planet Business: Sinkholes, White Musk and the courgette crisis"," This week: Mickey Mouse revenue at Disney, United Airlines boss lets fly   
+            "
+28,weather,2017-01-17,Ireland is less innovative than it was last year - Bloomberg index," Ireland drops a place as Nordic nations dominate the top 15 most innovative countires, while South Korea reigns supreme and Russia is dealt a huge blow   
+            "
+29,weather,2017-01-06,Bank of England’s  Haldane admits crisis in economic forecasting," Central bank’s chief economist says the vote for Brexit will hit the British economy in 2017   
+            "
+30,weather,2016-11-25,Chris Johns: Ireland flexible enough for brutal logic of euro," Currency union for Greece and Italy has them into economic zombies   
+            "
+31,weather,2016-10-11,Budget 2017: Full text of Michael Noonan’s speech," Read about all the measures announced by Minister for Finance in Dáil today    
+            "
+32,weather,2016-10-07,US employment growth slows for third straight month," Fed unlikely to announce  interest rate hike before  November 8th presidential election   
+            "
+33,weather,2016-09-19,Brexit: ‘The unknowns outnumber the knowns’ ," Ibec pares back  economic forecasts amid uncertainty over long-term impact of Brexit   
+            "
+34,weather,2016-08-18,"Analysis: No Brexit economic hit yet, but it’s coming"," UK consumer spending rose unexpectedly in July but is unlikely to stay solid for long   
+            "
+35,weather,2016-08-18,Shoppers shrug off Brexit as retail sales jump in July," New data shows retails sales grew by more than expected despite vote to leave the EU   
+            "
+36,weather,2016-08-15,Sterling steady near three-year low ahead of Brexit impact data," Traders await national data on consumer and corporate reaction to June referendum   
+            "
+37,weather,2016-07-29,US economic growth of 1.2% misses estimates," The tepid data may dim speculation that the Fed will increase its interest rate  this year   
+            "
+38,weather,2016-07-29,Monsieur Non and Scourge of the City face hard task over Brexit," Appointment of David Davis and Michel Barnier flag difficulty of EU/UK talks   
+            "
+39,weather,2016-06-07,Northern Ireland  gripped by uncertainty over Brexit referendum," There are growing fears about what will happen if the UK votes to leave the EU
+            "
+40,weather,2016-05-13,"German economy powers ahead, but exports cloud picture"," Economy grew by 0.7% in the first three months, the highest  rate since  early  2014   
+            "
+41,weather,2016-03-08,German industrial production jumps to six-year high," Latest numbers show strong demand underpinning output   
+            "
+42,weather,2016-02-22,Analysis: Markets in parallel universe to  real economy," ‘Nothing more important than how the political classes shape up  after the election’   
+            "
+43,weather,2016-02-17,US housing starts fall in January as bad weather hits activity," Producer prices nudge up, showing signs of uptick in inflation   
+            "
+44,weather,2016-02-10,Europe’s top four economies suffer drop in output," Germany, Britain, France and Italy all down, which does not bode well for global economy   
+            "
+45,weather,2016-02-05,"US job growth slows, unemployment rate at 8-year low"," Nonfarm payrolls rose by 151,000 jobs last month,  unemployment rate  at 4.9%   
+            "
+46,weather,2016-02-01,Wall St starts February in red after weak Chinese data," Google parent Alphabet and Barbie maker Mattel to report after market close   
+            "
+47,weather,2016-01-22,Ireland fights to sell positive story despite gloomy mood at Davos ," Vying with host of world and business leaders, Kenny and IDA chief are in diplomatic overdrive    
+            "
+48,weather,2015-10-30,US growth slows despite rise in consumer spending  ," Main reason for  deceleration was  slowdown in stock accumulation by companies   
+            "
+49,weather,2015-09-04,Planet Business," Australia loses steam, Google adopts a smiling ‘e’ and the Fiat Chrysler boss gets huggy   
+            "
+50,weather,2015-08-26,Avinash Persaud: Why the Fed must not blink on interest rate rise," Monetary policy cannot confine itself to reacting to the latest inflation data   
+            "
+51,weather,2015-08-21,Talk of widespread deflation across  world on market developments," D-word back after commodity price fall and China  engineers depreciation of  yuan   
+            "
+52,weather,2015-08-12,Old  measures of efficiency failing  to capture tech advances," Our domestic productivity has benefited from washing machines, vacuum cleaners and central heating   
+            "
+53,weather,2015-07-31,Head of  insurer FBD to step down with immediate effect," Senior former Central Bank executive Fiona Muldoon to replace Andrew Langford on an interim basis   
+            "
+54,weather,2015-07-28,John FitzGerald: The calm after the eruption," In contrast to Greece, growth is well under way in Ireland, Iceland, Latvia, Estonia, Portugal and Spain   
+            "
+55,weather,2015-07-20,China stocks recover as regulator reaffirms support," Small caps extend rebound but investors still cautious   
+            "
+56,weather,2015-06-25,Robust US consumer spending buoys economic growth outlook," Spending recorded its largest increase in nearly six years in May    
+            "
+57,weather,2015-04-28,House prices begin rising again despite new lending curbs," Latest official figures show prices rose 0.9% nationally in March and by 1.1% in Dublin   
+            "
+58,weather,2015-04-03,Weak US job growth  could delay anticipated   rate hike ," Non-farm payrolls increased 126,000 last month, the smallest gain since December 2013    
+            "
+59,weather,2015-03-19,US current account deficit  largest since 2012," Exports and the primary income surplus fell in the fourth quarter of the year   
+            "
+60,weather,2015-03-06,Sharp rise in US jobs figures sends dollar soaring," Speculation that the Fed is nearing its first interest-rate rise in nearly a decade   
+            "
+61,weather,2014-11-12,An unethical bet in the climate casino," Opinion: Republican wins in US midterms have implications for humanity    
+            "
+62,weather,2014-09-22,Politicians need to keep cause of collapse in mind as economy recovers," Opinion: safest course in budget would be to implement final part of Troika plan    
+            "
+63,weather,2014-08-29,Japan household spending slumps in  month of July," Despite weak signs in the economy, the BOJ is optimistic that a tightening job market will lead to higher wages   
+            "
+64,weather,2014-08-15,German growth should prompt ECB into action," How worried should we be about a slowdown in the German economy?   
+            "
+65,weather,2014-08-01,Planet Business," This week: Bonuses, vultures, sanctions, ‘poor doors’ and the importance of side orders   
+            "
+66,weather,2014-06-09,Japan’s economy picks up on  surge in capital spending," Economy grew at  an annualised 6.7 per cent in the first quarter, new figures show   
+            "
+67,weather,2014-06-06,US recoups jobs lost in recession as economy picks up," Latest official figures show employment returned to its pre-recession level last month   
+            "
+68,weather,2014-05-29,US economy contracts in first quarter as expected," Official statistics show gross domestic product shrank by 1%, its worst performance since 2011   
+            "
+69,weather,2014-05-28,German unemployment rises unexpectedly in May," Jobless rate in Europe's powerhouse economy rises amid signs of slowdown, according to official data
+            "
+70,weather,2014-05-13,Bonds: the greatest bull market of all time gets even frothier," Many of us thought it would come to an end years ago but we’vee been humiliated by reality   
+            "
+71,weather,2014-05-06,OECD cuts global growth outlook as developing economies falter," World economy is set to grow 3.4 per cent this year before accelerating to 3.9 per cent next year   
+            "
+72,weather,2014-04-30,US Fed signals thawing of economy after winter chill," Household spending appears to be rising ‘more quickly’   
+            "
+73,weather,2014-04-15,Strong US retail sales open the door to more tapering by the Fed," Wall Street post-winter rebound led by technology stocks   
+            "
+74,weather,2014-04-08,IMF upbeat on global recovery but wary of risks in Ukraine ," Washington-based fund’s twice yearly outlook predicts global output will expand by 3.6 per cent   
+            "
+75,weather,2014-04-04,US maintains solid job growth pace as winter fades," Data provides further evidence the economy is shifting into higher gear after brutally cold winter   
+            "
+76,weather,2014-03-25,New home sales fall to five-month low in US," Supply of new houses on the market hit the highest level since December 2010   
+            "
+77,weather,2014-03-13,"US retail sales rebound from winter chill, jobless claims fall"," New applications for unemployment benefits hit a fresh three-month low last week   
+            "
+78,weather,2014-03-13,Survey shows growth in UK house prices  cools in February ," Pent-up demand from potential buyers previously shut out of the market eased last month   
+            "
+79,weather,2014-03-06,Bank of England keeps  borrowing costs at record low," Britain marks five year anniversary of historic low interest rates   
+            "
+80,weather,2014-02-28,German retail sales rise at fastest rate in seven years," Hopes rise that consumer spending will support economic growth    
+            "
+81,weather,2014-02-25,US consumers lose confidence as economic fears weigh," Consumer confidence falls in February amidst concerns about the US economy’s direction but house prices continue to rise, with data showing prices in 20 US cities are on the advance   
+            "
+82,weather,2014-02-21,US existing home sales slump to 18-month low," Combination of cold weather and a lack of housing stock sidelined potential buyers   
+            "
+83,weather,2014-02-20,US jobless claims fell last week," New data points to improving labour market conditions, despite two months of weak hiring   
+            "
+84,weather,2014-02-20,Federal Reserve had few doubts about slowing asset purchases," Tapering set to continue in absence of big shift in US economy   
+            "
+85,weather,2014-02-07,US employment fails to rebound strongly from winter chill," Loss of momentum seen in  economy, but unemployment rate hits five-year low   
+            "
+86,weather,2014-02-06,US jobless claims fall as weak exports push up trade deficit," Latest numbers from US provide to labour market outlook and broader economy   
+            "
+87,weather,2014-01-17,US housing starts fall less than expected," But colder weather may have dampened activity as groundbreaking drops 9.8 per cent   
+            "
+88,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+89,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+90,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+91,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+92,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+93,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+94,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+95,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+96,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+97,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+98,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+99,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+100,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+101,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+102,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+103,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+104,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+105,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+106,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+107,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+108,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+109,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+110,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+111,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+112,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+113,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+114,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+115,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+116,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+117,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+118,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+119,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+120,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+121,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+122,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+123,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+124,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+125,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+126,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+127,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+128,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+129,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+130,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+131,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+132,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+133,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+134,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+135,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+136,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+137,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+138,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+139,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+140,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+141,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+142,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+143,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+144,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+145,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+146,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+147,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+148,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+149,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+150,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+151,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+152,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+153,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+154,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+155,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+156,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+157,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+158,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+159,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+160,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+161,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+162,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+163,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+164,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+165,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+166,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+167,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+168,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+169,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+170,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+171,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+172,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+173,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+174,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+175,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+176,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+177,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+178,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+179,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+180,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+181,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+182,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+183,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+184,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+185,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+186,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+187,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+188,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+189,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+190,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+191,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+192,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+193,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+194,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+195,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+196,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+197,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+198,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+199,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+200,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+201,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+202,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+203,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+204,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+205,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+206,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+207,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+208,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+209,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+210,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+211,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+212,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+213,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+214,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+215,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+216,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+217,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+218,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+219,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+220,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+221,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+222,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+223,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+224,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+225,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+226,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+227,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+228,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+229,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+230,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+231,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+232,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+233,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+234,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+235,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+236,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+237,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+238,weather,2019-10-17,Brexit deal positive – but dangers haven’t gone away," Cliff Taylor: The backstop is gone, replaced by a permanent arrangement for the North
+            "
+239,weather,2019-10-03,"Interconnector is not just about electricity, it's about power"," John Fitzgerald: if Ireland is to generate 40% of its electricity from wind we need to double our interconnection with Britain and France
+            "
+240,weather,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+241,weather,2019-08-02,"Apple’s Irish profits, Kennedy Wilson’s Irish growth, and the future of INM"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+242,weather,2019-07-03,Higgins welcomes bounce in German-Irish trade," President cites it as proof of ‘strong and enduring’ bilateral relationship
+            "
+243,weather,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+244,weather,2019-04-01,US retail sales unexpectedly ease in February," Fall may signal further headwinds for the economy
+            "
+245,weather,2019-01-06,Australia braces for hard landing in housing market," OECD issues warning as Sydney house prices record biggest monthly fall for 14 years
+            "
+246,weather,2018-11-19,‘Smart Atlantic way’ could narrow east-west economic divide – report," Finnish Helsinki region and Scottish highlands already providing models
+            "
+247,weather,2018-11-05,UK services sector slows to seven-month low," Brexit continues to foster gloomy outlook
+            "
+248,climate,2019-09-13,"Dublin house prices fall, Stillorgan redevelopment, and what a no-deal Brexit means"," Business Today: the best news, analysis and comment from The Irish Times business desk
+            "
+249,climate,2019-09-13,`If we had defaulted how strong would EU solidarity be now?'," Friday interview: John Moran, former Department of Finance mandarin
+            "
+250,climate,2019-09-02,Activist demands in listed companies fall in first half," Worsening global economy likely cause of decreased activism, report finds
+            "
+251,climate,2019-08-27,Record employment with 2.3m people at work in Irish economy," Minister welcomes figures but warns of likely impact of no-deal Brexit on Budget plans
+            "
+252,climate,2019-08-23,Germany’s golden economic run of the Merkel era may be over," Strong consumer spending not enough to counter weakening industrial production
+            "
+253,climate,2019-08-18,Chris Johns: UK facing a future as a failed state after Brexit," Hard Brexit on October 31st won’t be the end, merely the start of an even more chaotic phase
+            "
+254,climate,2019-08-16,"Degrowth fetishists, just be honest: you would make people poorer to fight climate change"," It is a fact that if people do less and use less, then GDP will fall
+            "
+255,climate,2019-07-25,Farmers could boost their incomes by switching from beef," John FitzGerald: The economics of beef are on a knife edge – changing makes sense
+            "
+256,climate,2019-07-18, Tax strategy papers: the key highlights," Income tax; changes to USC and PRSI and levies on carbon usage, motoring and food supplements all feature
+            "
+257,climate,2019-07-18,Q&A: What the motor tax changes could mean for you," How current motorists, new car buyers and those importing from the UK will be affected
+            "
+258,climate,2019-07-17,"€50,000 threshold for higher rate tax will cost €2.3bn"," Number of workers paying higher rate tax has more than doubled since 2010
+            "
+259,climate,2019-07-08,Turkish lira weakens 2.1% after central bank governor dismissed," Concern that monetary policy will be eased too quickly as president dismisses governor
+            "
+260,climate,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+261,climate,2019-05-17,How do you raise carbon taxes without hitting labourers more than lawyers?," Caveat: Good luck with handling this one in October’s budget, Paschal Donohoe
+            "
+262,climate,2019-05-10,IMF seeks healthcare review to avoid spending overruns," Report also suggests further limits to consumer borrowing
+            "
+263,climate,2019-04-18,Ireland has to move on carbon tax – why are we still arguing about it?," Smart Money: We need to cut emissions and avoid big fines – but politicians are nervous
+                    "
+264,climate,2019-04-15,EU to seek rapid tariff-reduction deal with the US," Negotiations were endorsed after EU governments overrode French objections
+            "
+265,climate,2019-03-25,Survey finds business morale in Germany improves," Germany’s manufacturing industry has shrunk at quickest rate in more than 6½ years
+            "
+266,climate,2019-02-27,Ireland paid €200m net to European Union in 2017," Agriculture and rural development received 86% of €1.8bn paid out by bloc, report shows
+            "
+267,climate,2019-02-12,"Rise in sales masks declining footfall, warns Retail Ireland"," Industry body’s retail monitor shows value of shopping rose 2.7% in final quarter of 2018
+            "
+268,climate,2019-02-01,"Ireland Strategic Investment Fund to finance 25,000 homes"," Fund managed by NTMA to back building of homes ‘ideally at the more affordable end’
+            "
+269,climate,2019-01-25,Saudis come in from the cold after ‘Davos in the Desert’ flop," Davos 2019 diary: Teen environmental activist unsure is she was listened to by elders
+            "
+270,climate,2019-01-15,No-deal Brexit: Northern Irish businesses ‘could not cope’," Lobby groups say protecting all-island benefits of Belfast Agreement is vital for future
+            "
+271,climate,2019-01-14,Brussels pushes to end national vetoes on taxation," Juncker wants to roll back tax powers that helped Ireland, Luxembourg and Malta
+            "
+272,climate,2019-01-03,The three big trends which will affect your finances this year," Smart Money: Brexit, world economy wobbles and interest rates are vital signs for 2019
+                    "
+273,climate,2018-11-20,CSO figures at odds with booming financial sector," Labour Force Survey detects sharp fall in jobs in finance sector contrary to perceptions
+            "
+274,climate,2018-11-13,"Post-Brexit travel rights, Apple shares slide, Black Friday, and Irish rugby’s land sale"," Business Today: the best news, analysis and comment from ‘The Irish Times’ business desk
+            "
+275,climate,2018-10-26,"Wedding planners, Brexit marchers and a voyage on the good ship Titanic II"," Planet Business: A week of unexpected comebacks
+            "
+276,climate,2018-10-19,"Fortnite furore, Trump’s climate change, and the ‘backstop to the backstop’"," Planet Business: Also in the news – it’s a Betfair cop, and farewell Microsoft’s Paul Allen
+            "
+277,climate,2018-10-09,NTMA hoping to raise up to €3bn from green bond sale," Green bonds are aimed at funding projects that promote climate change mitigation
+            "
+278,climate,2018-10-08,US economists win Nobel prize for work on climate change," William D Nordhaus and Paul M Romer awarded the 2018 Nobel Prize in Economics
+            "
+279,climate,2018-09-18,Lifting of milk quotas raises farming output to over €8bn," Central Bank report warns of potential negative shocks from Brexit, CAP reductions
+            "
+280,climate,2018-09-14,State continues to demolish viable housing stock instead of repairing it," Government should address housing shortages and climate change at the same time
+            "
+281,climate,2018-08-13,Sunny July gives consumer sentiment a temporary lift," Weather may have helped sentiment rise last month, but major economic worries remain
+            "
+282,climate,2018-07-17,EU and Japan sign one of history’s largest trade deals," Move seen as counterweight to offset US protectionism under Donald Trump
+            "
+283,climate,2018-07-09,NTMA chief urges State to sell bank shares as ‘dark clouds’ gather," Investors in Irish bonds would prefer to see Government taking every opportunity to pay down debt, Conor O’Kelly says
+            "
+284,climate,2018-07-02,Ireland tipped to jump on ‘green bonds’ bandwagon," Green bonds are issued to finance climate and environmental investments
+            "
+285,climate,2018-06-19,OECD undercuts ESRI’s growth forecast for Irish economy this year," Group says Irish economy will grow by 4% this year, below ESRI’s prediction of 4.7%
+            "
+286,climate,2018-06-08,Mike Bloomberg: ‘Make America Great Again? It’s never been greater'," Interview: Former New York mayor on preaching and paying for health and climate action
+            "
+287,climate,2018-06-04,Ibec spent €1.3m lobbying in the EU last year," Irish body third biggest spender on lobbying in EU, behind two groups in Germany
+            "
+288,climate,2018-05-25,"‘Dirty Brexit’, trade deadlocks and Facebook’s ‘monster’ questions"," Planet Business: The rise of Stacey Cunningham, the fall of Aussie house prices
+            "
+289,climate,2018-04-26,Timber industry sees Border checks as part of solution in hard Brexit," Copy measures in use on US-Canadian and Norwegian-Swedish borders, report suggests
+            "
+290,climate,2018-03-09,"Homes of nearly 8,200 Irish mortgage holders repossessed since crash"," Central Bank governor reveals extent of house repossession in Ireland since crisis
+            "
+291,climate,2018-02-09,Greece plots bailout exit – via medical cannabis and golden visas," Greece on cusp of exiting Troika bailout, but passions still high after years of harsh austerity
+            "
+292,climate,2018-02-08,Alexis Tsipras says Greece will not need credit line when it exits bailout," Greece planning to raise €19bn in bond sales as buffer
+            "
+293,climate,2018-01-27,Europe rediscovers its mojo in Davos," IMF sees euro zone economy growing 2% this year and 2.2% in 2019
+            "
+294,climate,2018-01-26,Selfie protocol and staying on message in and away from the Davos spotlight," World Economic Forum backdrop is a buoyant global economy and stock-market highs
+            "
+295,climate,2018-01-24,Trump’s Davos advance party delivers mixed messages to global elite," US ready for trade wars, commerce secretary indicates
+            "
+296,climate,2018-01-23,Davos: Fashion gets a seat at the table," Sinead Burke will give talks on design, inclusion and disability
+            "
+297,climate,2018-01-10,Trump will dominate Davos as no US leader has before," Provocateur-in-chief practised at irking elites who celebrate global order
+            "
+298,climate,2018-01-02,The new world disorder and the fracturing of the west," The geopolitical situation remains tense, although the world economy is improving
+            "
+299,climate,2017-12-29,Business review of 2017: Brexit and Trump fail to halt global boom," This year's international economic renaissance shows how forecasts are more art than science
+                    "
+300,climate,2017-11-24,"Inside track: Madeline McKeever, founder, Brown Envelope Seeds"," ‘Paperwork and slow broadband are the most frustrating things about running an SME’
+            "
+301,climate,2017-10-16,Chris Johns: Hard Brexit is no longer a risk – it is the UK’s objective," Should the hard Brexiteers get their wish, the first casualty will be sterling
+            "
+302,climate,2017-10-05,"State may face €610m climate bill in 2020, says Dáil committee"," Committee on Budgetary Oversight says climate change still not part of budget planning
+            "
+303,climate,2017-09-14,Government review reiterates capital spending commitments," Minister for Finance Paschal Donohoe launches mid-term review of spending plans
+            "
+304,climate,2017-09-01,John FitzGerald: A fair legal framework is crucial for business," Firms setting up in Ireland know under what laws they will operate
+            "
+305,climate,2017-08-16,July job vacancies drop as number seeking work increases," Morgan McKinley’s employment monitor sees particularly strong demand for engineers
+            "
+306,climate,2017-07-13,House survey shows prices in North are holding up," Domestic uncertainty not affecting North’s house prices as those in rest of UK fall
+            "
+307,climate,2017-07-12,Trump’s clash of civilisations rhetoric is out of step with reality," Martin Wolf: Going it alone will cost the US domestically and internationally
+            "
+308,climate,2017-07-09,G20 leaders restate opposition to protectionism," Trump isolated on climate change as group issues dissenting conclusions for first time
+            "
+309,climate,2017-07-06,EU strikes free-trade deal with Japan," Brussels eyes openings for agriculture while Tokyo looks to boost car exports
+            "
+310,climate,2017-05-22,Sales and marketing firm to create 25 new jobs in Dublin," NK Communications to increase number of  sales agents after Energia contract extension   
+            "
+311,climate,2017-05-14,G7 keeps watered-down pledge to promote free trade," Finance officials hope for breakthrough in meetings with US president later this year   
+            "
+312,climate,2017-03-28,Triggering of Brexit a tragedy for EU and Britain ," If a deal is to be reached with the EU, the UK will need to make concessions   
+            "
+313,climate,2017-01-26,Hayes says Ireland should issue green bonds," Irish MEP says green bonds would help finance renewable projects and send signal environmental issues are ‘national priority’   
+            "
+314,climate,2017-01-25,‘Trump effect’ yet to be seen in German business morale," Munich-based IFO says firms are cautious despite lack of action on protectionist threats    
+            "
+315,climate,2017-01-21,Davos: globalisation is in trouble but populism is not the answer,"  Those in world’s most powerful  institutions  confront popular rejection of their values   
+            "
+316,climate,2017-01-13,Planet Business: the weird and wonderful world of finance," From drones to conceptual driving and the ’Jenga effect’   
+            "
+317,climate,2017-01-09,Enterprise Ireland advises firms to prepare for hard Brexit," Agency boss says UK agencies are actively courting Irish agri-food companies   
+            "
+318,climate,2017-01-02,Survey shows German factory growth close to three-year high in December," Growth driven by rising demand from Asia and the US, says Markit   
+            "
+319,climate,2016-12-19,"Ireland fails to justify selective treatment of Apple, commission says"," Irish Apple subsidiaries used in way that ‘did not correspond to economic reality’    
+            "
+320,climate,2016-11-24,Slight rise in European shares while Iseq edges up .65%," BoI and housebuilder Abbey rise on back of Central Bank move on mortgage lending   
+            "
+321,climate,2016-11-04,Brexiteers’ reaction to ruling may confirm they are bonkers," Is Theresa May playing a complex game with the ultimate goal of delivering a soft Brexit?    
+            "
+322,climate,2016-11-04,Cracks start to show in Germany-China trade relations ," As Germany benefits from openness, it fears China’s supply chain will devour its technology    
+            "
+323,climate,2016-11-01,Irish businesses and households confident despite Brexit risks," Economic confidence steady  as weak pound begins to affect Irish businesses   
+            "
+324,climate,2016-10-28,Euro zone economic sentiment jumps in October," Rise driven by optimism in industry and services, European Commission survey finds   
+            "
+325,climate,2016-10-11,Budget 2017: Full text of Paschal Donohoe’s speech," Minister for Public Expenditure and Reform outlines Government’s spending plans    
+            "
+326,climate,2016-10-11,Budget 2017: Full text of Michael Noonan’s speech," Read about all the measures announced by Minister for Finance in Dáil today    
+            "
+327,climate,2016-10-07,John FitzGerald: Populism set to trump bravery  in Budget 2017," Intensive lobbying means short-term moves  eclipse daring options to reallocate funding   
+            "
+328,climate,2016-09-23,Green investment to boost global economy - Bank of England governor ," €45 trillion investment needed in energy efficiency to meet UN global warming targets   
+            "
+329,climate,2016-09-23,Door closing on prospects of  deal to open borders to trade  ," EU officials concede TTIP  likely to be parked until new US administration is bedded in    
+            "
+330,climate,2016-09-15,"Central Bank pushed for  property tax, water charges in 2009"," Pre-budget letters reveal  Patrick Honohan’s plans to extend State revenue base   
+            "
+331,climate,2016-08-30,EU orders Ireland to recoup up to €13bn in unpaid taxes from Apple," Apple given selective treatment through two tax rulings, European Commission charges   
+            "
+332,climate,2016-08-19,Brexit fuels debate over State’s minimum wage," Business groups seize on UK vote and Low Pay Commission dissent to oppose hikes   
+            "
+333,climate,2016-07-22,Consumer  survey finds Dubliners concerned about jobs," Irish consumer sentiment weakened in the second quarter, says KBC Bank and ESRI   
+            "
+334,climate,2016-07-20,"Martin Wolf: Trump’s answer is ‘clear, simple and wrong’"," Stagnating incomes will not be solved by a dose of populist protectionism   
+            "
+335,climate,2016-07-08,Carbon tax essential   for  decarbonising our economies," Emissions trading scheme ran aground when recession made permits worthless   
+            "
+336,climate,2016-07-04,Brexit: Feelings cannot prevail over reason," We need to contain the contagion and fix what ails the EU    
+            "
+337,climate,2016-06-20,Brexit and you: Six ways your life might change after Thursday," It’s still too close to call it, but if the UK votes to Leave this week it won’t just be the Irish economy that will be hit - it will be all of us   
+            "
+338,climate,2016-05-24,Economist Brendan Walsh inspired generations of students ," Brendan Walsh was a sharp analyst of Irish economics and society    
+            "
+339,climate,2016-05-19,"Brazil’s ‘Scissorhands’ turns to helping the developing world	"," Former finance minister of Latin American country is now with the World Bank   
+            "
+340,climate,2016-05-17,Breaking up (government departments) is hard to do," The  problems facing the Government will not be solved by reorganising departments    
+            "
+341,climate,2016-05-04,Martin Wolf: Brexit will damage the UK," Referendum is not about sovereignty. It is about how best to exercise the country’s power. And that is best done in the EU   
+            "
+342,climate,2016-05-03,John FitzGerald: Ireland must protect  interests under Brexit," Anything that may  destabilise the Belfast Agreement would be a major concern    
+            "
+343,climate,2016-04-26,Paul Krugman: Who you gonna call when the market melts?," The economic climate is far from being a threat-free zone for the next US president   
+            "
+344,climate,2016-04-19,Argentina makes triumphant return to bond markets with $16.5bn deal," Market pariah returns to market with one of the largest order books ever seen for an emerging markets bond    
+            "
+345,climate,2016-04-19,Brexit could ratchet up  pressure on Dublin housing market," Loss of 10,000 financial sector jobs in London may mean firms move in search of EU ‘asylum’    
+            "
+346,climate,2016-04-18,German stance on ECB shows European ideal is defunct," There is a reason why this is happening - not a good one, but a powerful one. Money.   
+            "
+347,climate,2016-03-17,British chancellor George Osborne is in traps of his own devising," Steady reduction in corporation tax suggests government is trying to turn  UK into Ireland   
+            "
+348,climate,2016-03-16,What to watch out for when the Fed meets," Steady stream of sturdy economic data and recovery in financial markets have bolstered the arguments of  policymakers who favour interest rate rises later this year   
+            "
+349,climate,2016-02-15,Arthur Beesley: Brexit dangers coming into focus for Irish firms," Uncertainty prevails until exact terms of any British exit from the EU are known    
+            "
+350,climate,2016-01-26,Steeling for China’s new status," One EU lobby group foresees 3.5 million jobs losses if status is granted   
+            "
+351,climate,2016-01-25,Stock markets fret that Fed rate move may have been premature," Central banks across the globe still have the wherewithal to exert influence    
+            "
+352,climate,2016-01-19,Davos 2016: the five big themes,"  World Economic Forum  to grapple with big issues  from climate change to  refugee crisis   
+            "
+353,climate,2015-12-21,Polish stocks plunge amid political street protests," Row over constitutional court sparks two weeks of street protests   
+            "
+354,climate,2015-12-08,Consumer confidence rises to a  10-year high," Strongest reading since January 2006 on post-Budget boost   
+            "
+355,climate,2015-12-01,Pricing a key tool to encourage  carbon-neutral energy," Tackling climate change requires incentivising new technology to produce ‘clean’ energy   
+            "
+356,climate,2015-11-24,German business morale shrugs off VW scandal," New data also shows economic growth led by private, government consumption   
+            "
+357,climate,2015-10-21,Resilient business community the key to Syria’s – eventual – rebirth," The cost of massive reconstruction is impossible to estimate, but Syria’s traditionally diverse economy will help when the time comes   
+            "
+358,climate,2015-10-08,What Dalkey thinks of Budget 2016," Did the people of Dalkey get what they wanted  for themselves and their community?   
+            "
+359,climate,2015-09-29,Euro zone economic sentiment at a four-year high," Overall economic sentiment up to 105.6 from 104.1 in August    
+            "
+360,climate,2015-08-31,"Euro zone inflation steady in August, easing pressure on ECB"," Oil prices have fallen from above $60 a barrel in early July to around $43 last week   
+            "
+361,climate,2015-08-21,German consumer morale down slightly going into September," Income expectations  declined after reaching  highest level since reunification last month   
+            "
+362,climate,2015-07-22,Global regulators may soften rules for asset-backed financing," Basel Committee begins review into how much capital banks should hold    
+            "
+363,climate,2015-07-16,EC says  bailout programme ‘helped Ireland return to growth’," Review says Irish  structural reforms incomplete despite recovery   
+            "
+364,climate,2015-07-10,The great fall of China?,"   The Chinese stock market is surprisingly parochial, and its collapse may not have the global fallout many fear 
+            "
+365,climate,2015-06-26,Jim Yong Kim: World Bank chief seeks to slash extreme poverty ," Ahead of Dublin visit, health expert  discusses fighting poverty and sharing prosperity    
+            "
+366,climate,2015-05-22,German business morale weakens and dampens growth," Sentiment in  manufacturing sector weakened while  mood among retailers  picked up   
+            "
+367,climate,2015-05-12,Ireland urged to implement key economic reforms," EU commissioner Moscovici commends progress but wants high  public debt tackled   
+            "
+368,climate,2015-04-23,Rise in Dublin consumer sentiment reflects optimism in economy," Trends in consumer sentiment within the capital ’broadly similar’ to those nationwide    
+            "
+369,climate,2015-04-15,IMF raises prediction for Ireland’s growth rate," Irish economy forecast to expand 3.9% this year, up from 3.5% three weeks ago   
+            "
+370,climate,2015-03-03,Returns augurs well for Government prior to ‘spring statement’," Clamour to relax its stringent fiscal stance will increase   
+            "
+371,climate,2015-02-24,Finding out what makes people switch on and off," John FitzGerald looks at how the best way to approach the Irish Water issue and make savings   
+            "
+372,climate,2015-02-19,Tsipras and Merkel have ‘constructive’ phone call ," Germany has rejected Greece’s request for loan extension    
+            "
+373,climate,2015-01-09,IMF gives Ireland a mouthful," IMF  said Ireland should ‘internalise the externalities’ affecting its boom-bust-boom housing market   
+            "
+374,climate,2014-12-19,Ireland: fourth best little country in which to do business," State loses top spot in ‘Forbes’ annual list but still ranks sixth for ‘investor protection’   
+            "
+375,climate,2014-12-02,Juncker plan needs focus and speed to boost  economies –  Franco-German meeting," SPD leader calls for less talk and more action as he looks to replicate post-unification plan to deliver growth for Europe   
+            "
+376,climate,2014-11-12,An unethical bet in the climate casino," Opinion: Republican wins in US midterms have implications for humanity    
+            "
+377,climate,2014-10-21,ECB begins buying bonds to revive economy,"   Central bank focuses on short-dated debt held by French and Spanish banks 
+            "
+378,climate,2014-10-13,Bond yields hold near record lows after S&P downgrades," Investors are hoping the worsening economic climate will force more ECB stimulus measures    
+            "
+379,climate,2014-09-24,Clean growth is a safe bet in the climate casino," All but most obdurate sceptics must recognise  probability of irreversible climate change is much greater than zero   
+            "
+380,climate,2014-09-24,Slide in German business morale points to weak third quarter ,"  Ifo think tank’s business climate index falls for  fifth straight month in September    
+            "
+381,climate,2014-09-16,Ireland ranked top in Europe for trade confidence," New study reveals that Irish firms are feeling increasingly optimistic about the future   
+            "
+382,climate,2014-09-16,EU Chamber slams China’s competition policy," Overseas businesses  push back against what they see as unfair antitrust enforcement by Beijing   
+            "
+383,climate,2014-09-10,Key economic posts in Commission given to France and Britain," Juncker unveils new-look EU executive with Britain and France to oversee economic portfolios   
+            "
+384,climate,2014-09-05,Deflation threatens to derail Euro recovery," Almost six years after the economic crisis began, Europe cannot afford to face into a prolonged period of stagnation    
+            "
+385,climate,2014-09-04,Quantitative Easing would sow the seeds of crisis not recovery," Rather than help, the ECB’s policy could push the euro zone in the wrong direction   
+            "
+386,climate,2014-08-13,Monopolies are no friend of a healthy democracy," There are many  ways in which dominant businesses can harm us   
+            "
+387,climate,2014-08-12,Libertarian notion of US government is foolish fantasy," Is libertarian economics at all realistic?The answer is no   
+            "
+388,climate,2014-06-25,German consumer morale jumps to highest level in seven years," Consumers become more upbeat on prospects for Europe’s largest economy after ECB rate move  
+            "
+389,climate,2014-06-24,German business sentiment dips as concern over Iraq grows," Munich-based Ifo think tank’s business climate index drops for second consecutive month   
+            "
+390,climate,2014-06-18,A climate fix would ruin investors," Opinion: humanity is making risky climate bets and ExxonMobil may be proved right    
+            "
+391,climate,2014-06-14,‘We’ll have to wait a number of years to see if it’s sustainable’," Businesspeople, jobhunters and others sense a gradual if fragile pickup in the economy   
+            "
+392,climate,2014-06-04,Why banking crises happen in the United States but not in Canada," A new analysis of financial crises contrasts with former treasury secretary Tim  Geithner’s   
+            "
+393,climate,2014-06-03,European firms say ‘Golden Age’  in China is over," Market access and regulatory barriers cost EU businesses €21.3 billion   
+            "
+394,climate,2014-05-23,Survey finds confidence in Irish economy growing but still fragile," Latest Global Economic Pulse survey  includes Ireland in dataset as a once-off   
+            "
+395,climate,2014-05-13,The US right’s new reason for opposing action on climate change: it’s Marxist," Justice Scalia’s criticism of an attempt to curb  pollution  gives a taste of what’s to come   
+            "
+396,environmental+policies,2016-11-22,Trump has done what he said he would do  on Pacific trade deal  ," Decision to withdraw from Pacific  deal will add to  concerns about Trump’s  wider trade policy and its impact on the world economy   
+            "
+397,environmental+policies,2016-11-11,Ireland faces major disruption  if Trump delivers on economic policies ," Big cut in US corporation tax rate would lessen incentive to invest abroad   
+            "
+398,environmental+policies,2016-09-23,Green investment to boost global economy - Bank of England governor ," €45 trillion investment needed in energy efficiency to meet UN global warming targets   
+            "
+399,environmental+policies,2016-09-21,Paul Krugman: how we vote in US election really matters," Has anybody actually read the Libertarian candidate’s manifesto?   
+            "
+400,environmental+policies,2016-06-07,European firms facing ‘increasingly hostile’ environment in China," Survey by EU Chamber regrets long-heralded reforms not coming through   
+            "
+401,environmental+policies,2015-10-13,Brendan Howlin: Full Budget 2016 speech," ‘Today, we reap the benefits of the hard work and resilience of the Irish people’   
+            "
+402,environmental+policies,2015-05-13,US pluriteral trade agreements carry significant risks," Since the failure of the “Doha round”, the focus has shifted to exclusive agreements    
+            "
+403,environmental+policies,2015-03-24,St Patrick’s Day and China’s NPC offer insights into Ireland’s relationship with Asia," End of annual parliament in China prompts reform calls   
+            "
+404,environmental+policies,2014-11-12,An unethical bet in the climate casino," Opinion: Republican wins in US midterms have implications for humanity    
+            "
+405,climate+change,2019-09-02,Activist demands in listed companies fall in first half," Worsening global economy likely cause of decreased activism, report finds
+            "
+406,climate+change,2019-08-16,"Degrowth fetishists, just be honest: you would make people poorer to fight climate change"," It is a fact that if people do less and use less, then GDP will fall
+            "
+407,climate+change,2019-07-25,Farmers could boost their incomes by switching from beef," John FitzGerald: The economics of beef are on a knife edge – changing makes sense
+            "
+408,climate+change,2019-07-18, Tax strategy papers: the key highlights," Income tax; changes to USC and PRSI and levies on carbon usage, motoring and food supplements all feature
+            "
+409,climate+change,2019-07-18,Q&A: What the motor tax changes could mean for you," How current motorists, new car buyers and those importing from the UK will be affected
+            "
+410,climate+change,2019-05-17,John FitzGerald: Climate change and the end of an empire," Collapse of Rome shows how failure to adapt can have catastrophic consequences
+            "
+411,climate+change,2019-05-17,How do you raise carbon taxes without hitting labourers more than lawyers?," Caveat: Good luck with handling this one in October’s budget, Paschal Donohoe
+            "
+412,climate+change,2019-04-18,Ireland has to move on carbon tax – why are we still arguing about it?," Smart Money: We need to cut emissions and avoid big fines – but politicians are nervous
+                    "
+413,climate+change,2019-02-01,"Ireland Strategic Investment Fund to finance 25,000 homes"," Fund managed by NTMA to back building of homes ‘ideally at the more affordable end’
+            "
+414,climate+change,2019-01-25,Saudis come in from the cold after ‘Davos in the Desert’ flop," Davos 2019 diary: Teen environmental activist unsure is she was listened to by elders
+            "
+415,climate+change,2019-01-14,Brussels pushes to end national vetoes on taxation," Juncker wants to roll back tax powers that helped Ireland, Luxembourg and Malta
+            "
+416,climate+change,2019-01-03,The three big trends which will affect your finances this year," Smart Money: Brexit, world economy wobbles and interest rates are vital signs for 2019
+                    "
+417,climate+change,2018-11-20,CSO figures at odds with booming financial sector," Labour Force Survey detects sharp fall in jobs in finance sector contrary to perceptions
+            "
+418,climate+change,2018-10-26,"Wedding planners, Brexit marchers and a voyage on the good ship Titanic II"," Planet Business: A week of unexpected comebacks
+            "
+419,climate+change,2018-10-19,"Fortnite furore, Trump’s climate change, and the ‘backstop to the backstop’"," Planet Business: Also in the news – it’s a Betfair cop, and farewell Microsoft’s Paul Allen
+            "
+420,climate+change,2018-10-09,NTMA hoping to raise up to €3bn from green bond sale," Green bonds are aimed at funding projects that promote climate change mitigation
+            "
+421,climate+change,2018-10-08,US economists win Nobel prize for work on climate change," William D Nordhaus and Paul M Romer awarded the 2018 Nobel Prize in Economics
+            "
+422,climate+change,2018-09-18,Lifting of milk quotas raises farming output to over €8bn," Central Bank report warns of potential negative shocks from Brexit, CAP reductions
+            "
+423,climate+change,2018-09-14,State continues to demolish viable housing stock instead of repairing it," Government should address housing shortages and climate change at the same time
+            "
+424,climate+change,2018-07-17,EU and Japan sign one of history’s largest trade deals," Move seen as counterweight to offset US protectionism under Donald Trump
+            "
+425,climate+change,2018-07-09,NTMA chief urges State to sell bank shares as ‘dark clouds’ gather," Investors in Irish bonds would prefer to see Government taking every opportunity to pay down debt, Conor O’Kelly says
+            "
+426,climate+change,2018-06-08,Mike Bloomberg: ‘Make America Great Again? It’s never been greater'," Interview: Former New York mayor on preaching and paying for health and climate action
+            "
+427,climate+change,2018-06-04,Ibec spent €1.3m lobbying in the EU last year," Irish body third biggest spender on lobbying in EU, behind two groups in Germany
+            "
+428,climate+change,2018-04-26,Timber industry sees Border checks as part of solution in hard Brexit," Copy measures in use on US-Canadian and Norwegian-Swedish borders, report suggests
+            "
+429,climate+change,2018-01-24,Trump’s Davos advance party delivers mixed messages to global elite," US ready for trade wars, commerce secretary indicates
+            "
+430,climate+change,2018-01-23,Davos: Fashion gets a seat at the table," Sinead Burke will give talks on design, inclusion and disability
+            "
+431,climate+change,2017-12-29,Business review of 2017: Brexit and Trump fail to halt global boom," This year's international economic renaissance shows how forecasts are more art than science
+                    "
+432,climate+change,2017-10-16,Chris Johns: Hard Brexit is no longer a risk – it is the UK’s objective," Should the hard Brexiteers get their wish, the first casualty will be sterling
+            "
+433,climate+change,2017-10-05,"State may face €610m climate bill in 2020, says Dáil committee"," Committee on Budgetary Oversight says climate change still not part of budget planning
+            "
+434,climate+change,2017-09-14,Government review reiterates capital spending commitments," Minister for Finance Paschal Donohoe launches mid-term review of spending plans
+            "
+435,climate+change,2017-09-01,John FitzGerald: A fair legal framework is crucial for business," Firms setting up in Ireland know under what laws they will operate
+            "
+436,climate+change,2017-07-09,G20 leaders restate opposition to protectionism," Trump isolated on climate change as group issues dissenting conclusions for first time
+            "
+437,climate+change,2017-07-06,EU strikes free-trade deal with Japan," Brussels eyes openings for agriculture while Tokyo looks to boost car exports
+            "
+438,climate+change,2017-05-14,G7 keeps watered-down pledge to promote free trade," Finance officials hope for breakthrough in meetings with US president later this year   
+            "
+439,climate+change,2017-03-28,Triggering of Brexit a tragedy for EU and Britain ," If a deal is to be reached with the EU, the UK will need to make concessions   
+            "
+440,climate+change,2017-01-26,Hayes says Ireland should issue green bonds," Irish MEP says green bonds would help finance renewable projects and send signal environmental issues are ‘national priority’   
+            "
+441,climate+change,2017-01-21,Davos: globalisation is in trouble but populism is not the answer,"  Those in world’s most powerful  institutions  confront popular rejection of their values   
+            "
+442,climate+change,2017-01-13,Planet Business: the weird and wonderful world of finance," From drones to conceptual driving and the ’Jenga effect’   
+            "
+443,climate+change,2016-11-24,Slight rise in European shares while Iseq edges up .65%," BoI and housebuilder Abbey rise on back of Central Bank move on mortgage lending   
+            "
+444,climate+change,2016-10-11,Budget 2017: Full text of Paschal Donohoe’s speech," Minister for Public Expenditure and Reform outlines Government’s spending plans    
+            "
+445,climate+change,2016-10-11,Budget 2017: Full text of Michael Noonan’s speech," Read about all the measures announced by Minister for Finance in Dáil today    
+            "
+446,climate+change,2016-09-23,Green investment to boost global economy - Bank of England governor ," €45 trillion investment needed in energy efficiency to meet UN global warming targets   
+            "
+447,climate+change,2016-07-20,"Martin Wolf: Trump’s answer is ‘clear, simple and wrong’"," Stagnating incomes will not be solved by a dose of populist protectionism   
+            "
+448,climate+change,2016-07-08,Carbon tax essential   for  decarbonising our economies," Emissions trading scheme ran aground when recession made permits worthless   
+            "
+449,climate+change,2016-07-04,Brexit: Feelings cannot prevail over reason," We need to contain the contagion and fix what ails the EU    
+            "
+450,climate+change,2016-06-20,Brexit and you: Six ways your life might change after Thursday," It’s still too close to call it, but if the UK votes to Leave this week it won’t just be the Irish economy that will be hit - it will be all of us   
+            "
+451,climate+change,2016-05-24,Economist Brendan Walsh inspired generations of students ," Brendan Walsh was a sharp analyst of Irish economics and society    
+            "
+452,climate+change,2016-05-19,"Brazil’s ‘Scissorhands’ turns to helping the developing world	"," Former finance minister of Latin American country is now with the World Bank   
+            "
+453,climate+change,2016-05-17,Breaking up (government departments) is hard to do," The  problems facing the Government will not be solved by reorganising departments    
+            "
+454,climate+change,2016-05-03,John FitzGerald: Ireland must protect  interests under Brexit," Anything that may  destabilise the Belfast Agreement would be a major concern    
+            "
+455,climate+change,2016-04-19,Brexit could ratchet up  pressure on Dublin housing market," Loss of 10,000 financial sector jobs in London may mean firms move in search of EU ‘asylum’    
+            "
+456,climate+change,2016-04-18,German stance on ECB shows European ideal is defunct," There is a reason why this is happening - not a good one, but a powerful one. Money.   
+            "
+457,climate+change,2016-03-17,British chancellor George Osborne is in traps of his own devising," Steady reduction in corporation tax suggests government is trying to turn  UK into Ireland   
+            "
+458,climate+change,2016-02-15,Arthur Beesley: Brexit dangers coming into focus for Irish firms," Uncertainty prevails until exact terms of any British exit from the EU are known    
+            "
+459,climate+change,2016-01-19,Davos 2016: the five big themes,"  World Economic Forum  to grapple with big issues  from climate change to  refugee crisis   
+            "
+460,climate+change,2015-12-01,Pricing a key tool to encourage  carbon-neutral energy," Tackling climate change requires incentivising new technology to produce ‘clean’ energy   
+            "
+461,climate+change,2015-08-31,"Euro zone inflation steady in August, easing pressure on ECB"," Oil prices have fallen from above $60 a barrel in early July to around $43 last week   
+            "
+462,climate+change,2015-06-26,Jim Yong Kim: World Bank chief seeks to slash extreme poverty ," Ahead of Dublin visit, health expert  discusses fighting poverty and sharing prosperity    
+            "
+463,climate+change,2015-04-23,Rise in Dublin consumer sentiment reflects optimism in economy," Trends in consumer sentiment within the capital ’broadly similar’ to those nationwide    
+            "
+464,climate+change,2015-02-24,Finding out what makes people switch on and off," John FitzGerald looks at how the best way to approach the Irish Water issue and make savings   
+            "
+465,climate+change,2014-12-02,Juncker plan needs focus and speed to boost  economies –  Franco-German meeting," SPD leader calls for less talk and more action as he looks to replicate post-unification plan to deliver growth for Europe   
+            "
+466,climate+change,2014-11-12,An unethical bet in the climate casino," Opinion: Republican wins in US midterms have implications for humanity    
+            "
+467,climate+change,2014-10-21,ECB begins buying bonds to revive economy,"   Central bank focuses on short-dated debt held by French and Spanish banks 
+            "
+468,climate+change,2014-09-24,Clean growth is a safe bet in the climate casino," All but most obdurate sceptics must recognise  probability of irreversible climate change is much greater than zero   
+            "
+469,climate+change,2014-09-10,Key economic posts in Commission given to France and Britain," Juncker unveils new-look EU executive with Britain and France to oversee economic portfolios   
+            "
+470,climate+change,2014-09-05,Deflation threatens to derail Euro recovery," Almost six years after the economic crisis began, Europe cannot afford to face into a prolonged period of stagnation    
+            "
+471,climate+change,2014-08-13,Monopolies are no friend of a healthy democracy," There are many  ways in which dominant businesses can harm us   
+            "
+472,climate+change,2014-08-12,Libertarian notion of US government is foolish fantasy," Is libertarian economics at all realistic?The answer is no   
+            "

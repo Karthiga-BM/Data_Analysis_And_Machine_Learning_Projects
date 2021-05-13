@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="IrishTimesEconomical">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="news">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Economical_ID" type="xs:unsignedShort" />
+              <xs:element name="Name_Economical" type="xs:string" />
+              <xs:element name="Date_Economical" type="xs:string" />
+              <xs:element name="Headline_Economical" type="xs:string" />
+              <xs:element name="Description_Economical" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
